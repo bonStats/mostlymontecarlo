@@ -1,0 +1,27 @@
+---
+title: "Mostly Monte Carlo Seminar Series"
+---
+
+Frequency: **2nd Friday of each month**
+
+Location: [**PariSanté Campus**](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+
+Organisers: Andrea Bertazzi and Joshua Bon
+
+------------------------------------------------------------------------
+
+A monthly series on the theory and practice of Monte Carlo in statistics and data science.
+
+::: callout-note
+## Next Seminar
+
+4PM Friday 17th November 2023
+
+-   Yazid Janati El Idrissi (CMAP, École Polytechnique)
+
+-   Daniil Tiapkin (CMAP, École Polytechnique)
+
+[Details](nov2023.html)
+:::
+
+Join the mailing list: email joshua *dot* bon *at* dauphine *dot* psl *dot* eu

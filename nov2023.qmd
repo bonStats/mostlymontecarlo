@@ -1,0 +1,21 @@
+---
+title: "November 2023"
+---
+
+Date: **4PM Friday 17th November 2023**
+
+Room: **Room 6, [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)**
+
+------------------------------------------------------------------------
+
+### **Monte Carlo guided Diffusion models for Bayesian linear inverse problems**
+
+**Yazid Janati El Idrissi** *CMAP, École Polytechnique*
+
+Ill-posed linear inverse problems arise frequently in various applications, from computational photography to medical imaging. A recent line of research exploits Bayesian inference with informative priors to handle the ill-posedness of such problems. Amongst such priors, score-based generative models (SGM) have recently been successfully applied to several different inverse problems. In this study, we exploit the particular structure of the prior defined by the SGM to define a sequence of intermediate linear inverse problems. As the noise level decreases, the posteriors of these inverse problems get closer to the target posterior of the original inverse problem. To sample from this sequence of posteriors, we propose the use of Sequential Monte Carlo (SMC) methods. The proposed algorithm, MCGDiff, is shown to be theoretically grounded and we provide numerical simulations showing that it outperforms competing baselines when dealing with ill-posed inverse problems in a Bayesian setting.
+
+### **Generative Flow Networks as Entropy-Regularized RL**
+
+**Daniil Tiapkin** *CMAP, École Polytechnique*
+
+The recently proposed generative flow networks (GFlowNets) are a method of training a policy to sample compositional discrete objects with probabilities proportional to a given reward via a sequence of actions. GFlowNets exploit the sequential nature of the problem, drawing parallels with reinforcement learning (RL). Our work extends the connection between RL and GFlowNets to a general case. We demonstrate how the task of learning a generative flow network can be efficiently redefined as an entropy-regularized RL problem with a specific reward and regularizer structure. Furthermore, we illustrate the practical efficiency of this reformulation by applying standard soft RL algorithms to GFlowNet training across several probabilistic modeling tasks. Contrary to previously reported results, we show that entropic RL approaches can be competitive against established GFlowNet training methods. This perspective opens a direct path for integrating reinforcement learning principles into the realm of generative flow networks.

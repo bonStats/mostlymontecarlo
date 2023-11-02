@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mostly Monte Carlo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - nov2023.qmd
+      - oct2023.qmd
+  page-navigation: true
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
