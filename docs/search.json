@@ -14,10 +14,17 @@
     "text": "Date: 4PM Friday 13th October 2023\nRoom: Room 7, PariSanté Campus\n\n\nPiecewise deterministic sampling with splitting schemes\nAndrea Bertazzi CMAP, École Polytechnique \nPiecewise deterministic Markov processes (PDMPs) received substantial interest in recent years as an alternative to classical Markov chain Monte Carloalgorithms. While theoretical properties of PDMPs have been studied extensively, their practical implementation remains limited to specific applications in which bounds on the gradient of the negative log-target can be derived. In order to address this problem, we propose to approximate PDMPs using splitting schemes, that means simulating the deterministic dynamics and the random jumps in two different stages. We show that symmetric splittings of PDMPs are of second order. Then we focus on the Zig-Zag sampler (ZZS) and show how to remove the bias of the splitting scheme with a skew reversible Metropolis filter. Finally, we illustrate with numerical simulations the advantages of our proposed scheme over competitors.\n\n\nBayesian score calibration for approximate models\nJoshua Bon Ceremade, Université Paris Dauphine-PSL\nScientists continue to develop increasingly complex mechanistic models to reflect their knowledge more realistically. Statistical inference using these models can be challenging since the corresponding likelihood function is often intractable and model simulation may be computationally burdensome.  Fortunately, in many of these situations, it is possible to adopt a surrogate model or approximate likelihood function.  It may be convenient to base Bayesian inference directly on the surrogate, but this can result in bias and poor uncertainty quantification.  In this paper we propose a new method for adjusting approximate posterior samples to reduce bias and produce more accurate uncertainty quantification.  We do this by optimizing a transform of the approximate posterior that maximizes a scoring rule.  Our approach requires only a (fixed) small number of complex model simulations and is numerically stable.  We demonstrate good performance of the new method on several examples of increasing complexity."
   },
   {
+    "objectID": "dec2023.html",
+    "href": "dec2023.html",
+    "title": "December 2023",
+    "section": "",
+    "text": "Date: 4PM Friday 15th December 2023\nRoom: Room 6, PariSanté Campus\n\n\nTalks TBC"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mostly Monte Carlo Seminar Series",
     "section": "",
-    "text": "Frequency: 2nd Friday of each month\nLocation: PariSanté Campus\nOrganisers: Andrea Bertazzi and Joshua Bon\n\nA monthly series on the theory and practice of Monte Carlo in statistics and data science.\n\n\n\n\n\n\nNext Seminar\n\n\n\n4PM Friday 17th November 2023\n\nYazid Janati El Idrissi (CMAP, École Polytechnique)\nDaniil Tiapkin (CMAP, École Polytechnique)\n\nDetails\n\n\nJoin the mailing list: email joshua dot bon at dauphine dot psl dot eu"
+    "text": "Frequency: 2nd Friday of each month (approximately)\nLocation: PariSanté Campus\nOrganisers: Andrea Bertazzi and Joshua Bon\n\nA monthly series on the theory and practice of Monte Carlo in statistics and data science.\n\n\n\n\n\n\nNext Seminar\n\n\n\n4PM Friday 17th November 2023\n\nYazid Janati El Idrissi (CMAP, École Polytechnique)\nDaniil Tiapkin (CMAP, École Polytechnique)\n\nDetails\n\n\nJoin the mailing list: email joshua dot bon at dauphine dot psl dot eu"
   }
 ]

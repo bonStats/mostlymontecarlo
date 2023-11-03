@@ -12,6 +12,7 @@ website:
     style: "docked"
     search: true
     contents:
+      - dec2023.qmd
       - nov2023.qmd
       - oct2023.qmd
   page-navigation: true
