@@ -2,15 +2,9 @@
 title: "Mostly Monte Carlo Seminar Series"
 ---
 
-Frequency: **2nd Friday of each month (approximately)**
-
-Location: [**PariSanté Campus**](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
-
-Organisers: Andrea Bertazzi and Joshua Bon
+A monthly series on the theory and practice of Monte Carlo in statistics and data science.
 
 ------------------------------------------------------------------------
-
-A monthly series on the theory and practice of Monte Carlo in statistics and data science.
 
 ::: callout-note
 ## Next Seminar
@@ -24,4 +18,14 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 [Details](nov2023.html)
 :::
 
-Join the mailing list: email joshua *dot* bon *at* dauphine *dot* psl *dot* eu
+## Seminar Details
+
+Frequency: **2nd Friday of each month (approximately)**
+
+Location: [**PariSanté Campus**](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+
+Organisers: Andrea Bertazzi and Joshua Bon
+
+## Join the mailing list
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYfJCkKc8sO4SR8qemic3ctTwcoRcmCrapRHIIT-BFA3-pEA/viewform?embedded=true" width="640" height="676" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
