@@ -9,13 +9,11 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 ::: callout-note
 ## Next Seminar
 
-4PM Friday 17th November 2023
+4PM Friday 15th December 2023
 
--   Yazid Janati El Idrissi (CMAP, École Polytechnique)
+-   TBA
 
--   Daniil Tiapkin (CMAP, École Polytechnique)
-
-[Details](nov2023.html)
+[Details](dec2023.html)
 :::
 
 ## Seminar Details
