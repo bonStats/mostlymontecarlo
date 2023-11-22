@@ -11,9 +11,9 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 
 4PM Friday 15th December 2023
 
--   TBA
+- Urbain Vaes (INRIA)
 
-[Details](dec2023.html)
+[Details](sem/s2023_12.html)
 :::
 
 ## Seminar Details
