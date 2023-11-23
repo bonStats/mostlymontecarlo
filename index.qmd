@@ -9,9 +9,9 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 ::: callout-note
 ## Next Seminar
 
-4PM Friday 15th December 2023
+Room 8, 4PM *Friday 15th December* 2023
 
-- Urbain Vaes (INRIA)
+- Urbain Vaes (INRIA, CERMICS)
 
 [Details](sem/s2023_12.html)
 :::
