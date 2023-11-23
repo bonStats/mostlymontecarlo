@@ -1,0 +1,9 @@
+---
+title: "Rooms at PariSanté"
+---
+
+Location: [**PariSanté Campus**](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+
+![](data/psc-map.png){width="460"}
+
+More information on travelling to PariSanté and the facilities is available [here](data/Livret_PSC_bilingue_191023.pdf).
