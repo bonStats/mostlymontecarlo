@@ -9,7 +9,7 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 ::: callout-note
 ## Next Seminar: 15th December
 
-[Salle 08](psc_rooms.qmd), 4PM Friday 15th December 2023
+[Salle 08](psc_rooms.qmd), 4PM Friday 15/12/2023
 
 - Urbain Vaes (INRIA, CERMICS)
 - Grégoire Clarté (University of Edinburgh)
