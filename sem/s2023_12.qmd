@@ -4,14 +4,18 @@ title: "December 2023"
 
 Date: **4PM Friday 15th December 2023**
 
-Room: [**Salle 8**](psc_rooms.qmd)**, [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)**
+Room: [Salle 08](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 
 ------------------------------------------------------------------------
 
-### **Title TBC**
+### Title TBC
 
 **Urbain Vaes** *INRIA, CERMICS*
 
 Abstract coming soon
 
-### **Talk 2 TBC**
+### Talk 2 TBC
+
+**Grégoire Clarté** *University of Edinburgh*
+
+Abstract coming soon

@@ -4,8 +4,14 @@
 
 Date: **4PM Friday 12th January 2024**
 
-Room: [**Salle 7**](psc_rooms.qmd)**, [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)**
+Room: [Salle 07](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 
 ------------------------------------------------------------------------
 
-### Talks TBC
+### Title TBC
+
+**Andral Charly** *Ceremade, Université Paris Dauphine-PSL*
+
+Abstract coming soon
+
+### Talk 2 TBC
