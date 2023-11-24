@@ -12,7 +12,7 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 [Salle 08](psc_rooms.qmd), 4PM Friday 15/12/2023
 
 - Urbain Vaes (INRIA, CERMICS)
-- Grégoire Clarté (University of Edinburgh)
+- Grégoire Clarté (University of Helsinki, University of Edinburgh)
 
 [Details](sem/s2023_12.qmd)
 :::

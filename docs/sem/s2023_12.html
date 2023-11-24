@@ -168,8 +168,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#title-tbc" id="toc-title-tbc" class="nav-link active" data-scroll-target="#title-tbc">Title TBC</a></li>
-  <li><a href="#talk-2-tbc" id="toc-talk-2-tbc" class="nav-link" data-scroll-target="#talk-2-tbc">Talk 2 TBC</a></li>
+  <li><a href="#svbmc-fast-post-processing-bayesian-inference-with-noisy-evaluations-of-the-likelihood" id="toc-svbmc-fast-post-processing-bayesian-inference-with-noisy-evaluations-of-the-likelihood" class="nav-link active" data-scroll-target="#svbmc-fast-post-processing-bayesian-inference-with-noisy-evaluations-of-the-likelihood">SVBMC: Fast post-processing Bayesian inference with noisy evaluations of the likelihood</a></li>
+  <li><a href="#title-tbc" id="toc-title-tbc" class="nav-link" data-scroll-target="#title-tbc">Title TBC</a></li>
   </ul>
 </nav>
     </div>
@@ -196,14 +196,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Date: <strong>4PM Friday 15th December 2023</strong></p>
 <p>Room: <a href="../psc_rooms.html">Salle 08</a>, <a href="https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9">PariSanté Campus</a></p>
 <hr>
+<section id="svbmc-fast-post-processing-bayesian-inference-with-noisy-evaluations-of-the-likelihood" class="level3">
+<h3 class="anchored" data-anchor-id="svbmc-fast-post-processing-bayesian-inference-with-noisy-evaluations-of-the-likelihood">SVBMC: Fast post-processing Bayesian inference with noisy evaluations of the likelihood</h3>
+<p><strong>Grégoire Clarté</strong> <em>University of Helsinki, University of Edinburgh</em></p>
+<p>In many cases, the exact likelihood is unavailable, and can only be accessed through a noisy and expensive process – for example, in Plasma Physics. Furthermore, Bayesian inference often comes in at a second moment, for example after running an optimization algorithm to find a MAP estimate. To tackle both these issues, we introduce Sparse Variational Bayesian Monte Carlo (SVBMC), a method for fast “post-processes” Bayesian inference for models with black-box and noisy likelihoods. SVBMC reuses all existing target density evaluations – for example, from previous optimizations or partial Markov Chain Monte Carlo runs – to build a sparse Gaussian process (GP) surrogate model of the log posterior density. Uncertain regions of the surrogate are then refined via active learning as needed. Our work builds on the Variational Bayesian Monte Carlo (VBMC) framework for sample-efficient inference, with several novel contributions. First, we make VBMC scalable to a large number of pre-existing evaluations via sparse GP regression, deriving novel Bayesian quadrature formulae and acquisition functions for active learning with sparse GPs. Second, we introduce noise shaping, a general technique to induce the sparse GP approximation to focus on high posterior density regions. Third, we prove theoretical results in support of the SVBMC refinement procedure. We validate our method on a variety of challenging synthetic scenarios and real-world applications. We find that SVBMC consistently builds good posterior approximations by post-processing of existing model evaluations from different sources, often requiring only a small number of additional density evaluations.</p>
+</section>
 <section id="title-tbc" class="level3">
 <h3 class="anchored" data-anchor-id="title-tbc">Title TBC</h3>
 <p><strong>Urbain Vaes</strong> <em>INRIA, CERMICS</em></p>
-<p>Abstract coming soon</p>
-</section>
-<section id="talk-2-tbc" class="level3">
-<h3 class="anchored" data-anchor-id="talk-2-tbc">Talk 2 TBC</h3>
-<p><strong>Grégoire Clarté</strong> <em>University of Edinburgh</em></p>
 <p>Abstract coming soon</p>
 
 
