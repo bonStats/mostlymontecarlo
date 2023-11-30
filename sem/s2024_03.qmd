@@ -15,3 +15,7 @@ Room: [Salle 03](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 Abstract TBC
 
 ### Talk 2 TBC
+
+**Marylou Gabrié** *CMAP, École Polytechnique*
+
+Abstract TBC
