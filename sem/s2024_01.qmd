@@ -15,3 +15,7 @@ Room: [Salle 07](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 Abstract coming soon
 
 ### Talk 2 TBC
+
+**Régis Santet**, *CERMICS, École des Ponts & MATHERIALS, INRIA Paris*
+
+Abstract coming soon
