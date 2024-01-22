@@ -14,4 +14,8 @@ Room: [Salle 07](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 
 Abstract TBC
 
-### Talk 2 TBC
+### Title TBC
+
+**Antoine Luciano** *Ceremade, Université Paris Dauphine-PSL*
+
+Abstract TBC

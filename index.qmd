@@ -7,14 +7,14 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 12th January
+## Next Seminar: 16th February
 
-[Salle 07](psc_rooms.qmd), 4PM Friday 12/01/2024
+[Salle 07](psc_rooms.qmd), 4PM Friday 16/02/2024
 
-- Charly Andral (Université Paris Dauphine-PSL)
-- Régis Santet (INRIA Paris)
+-   Pierre Jacob (ESSEC)
+-   Antoine Luciano (Paris Dauphine)
 
-[Details](sem/s2024_01.qmd)
+[Details](sem/s2024_02.qmd)
 :::
 
 ## Seminar Details
