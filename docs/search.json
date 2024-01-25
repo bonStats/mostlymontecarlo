@@ -21,6 +21,13 @@
     "text": "Join the mailing list\n\n&lt;p&gt;Loading…&lt;/p&gt;"
   },
   {
+    "objectID": "sem/s2024_04.html",
+    "href": "sem/s2024_04.html",
+    "title": "April 2024",
+    "section": "",
+    "text": "Date: 4PM Friday 12th April 2024\nRoom: Salle 06, PariSanté Campus\n\n\nTitle TBC\nKamélia Daudel ESSEC Business School\nAbstract TBC\n\n\nSpeaker 2 TBC"
+  },
+  {
     "objectID": "sem/s2024_01.html",
     "href": "sem/s2024_01.html",
     "title": "January 2024",
@@ -68,6 +75,13 @@
     "title": "February 2024",
     "section": "",
     "text": "Date: 4PM Friday 16th February 2024\nRoom: Salle 07, PariSanté Campus\n\n\nTitle TBC\nPierre Jacob ESSEC Business School\nAbstract TBC\n\n\nInsufficient Gibbs Sampling\nAntoine Luciano Ceremade, Université Paris Dauphine-PSL\nIn some applied scenarios, the availability of complete data is restricted, often due to privacy concerns, and only aggregated, robust and inefficient statistics derived from the data are accessible. These robust statistics are not sufficient, but they demonstrate reduced sensitivity to outliers and offer enhanced data protection due to their higher breakdown point. In this article, operating within a parametric framework, we propose a method to sample from the posterior distribution of parameters conditioned on different robust and inefficient statistics: specifically, the pairs (median, MAD) or (median, IQR), or one or more quantiles. Leveraging a Gibbs sampler and the simulation of latent augmented data, our approach facilitates simulation according to the posterior distribution of parameters belonging to specific families of distributions. We demonstrate its applicability on the Gaussian, Cauchy, and translated Weibull families. \n(Preprint: https://arxiv.org/abs/2307.14973)"
+  },
+  {
+    "objectID": "sem/s2024_05.html",
+    "href": "sem/s2024_05.html",
+    "title": "May 2024",
+    "section": "",
+    "text": "Date: 4PM Friday 24th May 2024\nRoom: Salle 06, PariSanté Campus\n\n\nTitle TBC\nGabriel Stoltz CERMICS, Ecole des Ponts\nAbstract TBC\n\n\nSpeaker 2 TBC"
   },
   {
     "objectID": "psc_rooms.html",
