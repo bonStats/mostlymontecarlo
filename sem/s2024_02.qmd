@@ -8,11 +8,11 @@ Room: [Salle 07](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 
 ------------------------------------------------------------------------
 
-### Title TBC
+### Sampling probability distributions on constrained spaces
 
 **Pierre Jacob** *ESSEC* Business School
 
-Abstract TBC
+I will describe the problem of designing MCMC samplers for probability distributions that are supported on submanifolds, and its relevance in statistics (hypothesis testing, Bayesian inference), and how one may implement couplings of such MCMC kernels. The question also arises when the target is supported in $R^d$ and one wants to propose moves along the contour of the target density function, which could be well motivated, and has been suggested multiple times in the literature. Joint work with Elena Bortolato (Padova) and Robin Ryder (Paris-Dauphine).
 
 ### Insufficient Gibbs Sampling
 
