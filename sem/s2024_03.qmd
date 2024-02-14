@@ -8,14 +8,14 @@ Room: [Salle 03](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 
 ------------------------------------------------------------------------
 
-### Title TBC
+### Talk 1 TBC
 
-**Anna Korba** *ENSAE/CREST*
+**Marylou Gabrié** *CMAP, École Polytechnique*
 
 Abstract TBC
 
-### Talk 2 TBC
+### Title 2 TBC
 
-**Marylou Gabrié** *CMAP, École Polytechnique*
+TBC
 
 Abstract TBC
