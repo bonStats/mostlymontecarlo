@@ -39,7 +39,7 @@
     "href": "sem/s2024_03.html",
     "title": "March 2024",
     "section": "",
-    "text": "Date: 4PM Friday 8th March 2024\nRoom: Salle 03, PariSanté Campus\n\n\nTalk 1 TBC\nMarylou Gabrié CMAP, École Polytechnique\nAbstract TBC\n\n\nTitle 2 TBC\nTBC\nAbstract TBC"
+    "text": "Date: 4PM Friday 8th March 2024\nRoom: Salle 03, PariSanté Campus\n\n\nImplicit Diffusion: Efficient Optimization through Stochastic Sampling\nPierre Marion École Polytechnique Fédérale de Lausanne\nWe present a new algorithm to optimize distributions defined implicitly by parameterized stochastic diffusions. Doing so allows us to modify the outcome distribution of sampling processes by optimizing over their parameters. We introduce a general framework for first-order optimization of these processes, that performs jointly, in a single loop, optimization and sampling steps. This approach is inspired by recent advances in bilevel optimization and automatic implicit differentiation, leveraging the point of view of sampling as optimization over the space of probability distributions. We provide theoretical guarantees on the performance of our method, as well as experimental results demonstrating its effectiveness in real-world settings.\n\n\nTalk 2 TBC\nMarylou Gabrié CMAP, École Polytechnique\nAbstract TBC"
   },
   {
     "objectID": "sem/s2023_10.html",
