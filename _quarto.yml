@@ -14,14 +14,14 @@ website:
     style: "docked"
     search: true
     contents:
-      - sem/s2024_05.qmd
-      - sem/s2024_04.qmd
-      - sem/s2024_03.qmd
-      - sem/s2024_02.qmd
-      - sem/s2024_01.qmd
-      - sem/s2023_12.qmd
-      - sem/s2023_11.qmd
       - sem/s2023_10.qmd
+      - sem/s2023_11.qmd
+      - sem/s2023_12.qmd
+      - sem/s2024_01.qmd
+      - sem/s2024_02.qmd
+      - sem/s2024_03.qmd
+      - sem/s2024_04.qmd
+      - sem/s2024_05.qmd
   page-navigation: true
 
 format:

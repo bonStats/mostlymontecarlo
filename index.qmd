@@ -7,14 +7,14 @@ A monthly series on the theory and practice of Monte Carlo in statistics and dat
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 8th March
+## Next Seminar: 12th April
 
-[Salle 03](psc_rooms.qmd), 4PM Friday
+[Salle 06](psc_rooms.qmd), 4PM Friday
 
--   Marylou Gabrié (CMAP, École Polytechnique)
--   Pierre Marion (EPFL)
+-   Kamélia Daudel (ESSEC Business School)
+-   Maxence Noble (CMAP, École Polytechnique)
 
-[More details...](sem/s2024_03.qmd)
+[More details](sem/s2024_04.qmd)[...](sem/s2024_03.qmd)
 :::
 
 ## Seminar Details
