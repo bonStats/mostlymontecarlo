@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mostly Monte Carlo - May 2024</title>
+<title>Mostly Monte Carlo - April 2024 II</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../sem/s2024_04_sp.html" rel="prev">
+<link href="../sem/s2024_05.html" rel="next">
+<link href="../sem/s2024_04.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -101,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../sem/s2024_05.html">May 2024</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../sem/s2024_04_sp.html">April 2024 II</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -165,13 +166,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../sem/s2024_04_sp.html" class="sidebar-item-text sidebar-link">
+  <a href="../sem/s2024_04_sp.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">April 2024 II</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../sem/s2024_05.html" class="sidebar-item-text sidebar-link active">
+  <a href="../sem/s2024_05.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">May 2024</span></a>
   </div>
 </li>
@@ -185,8 +186,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#title-tbc" id="toc-title-tbc" class="nav-link active" data-scroll-target="#title-tbc">Title TBC</a></li>
-  <li><a href="#speaker-2-tbc" id="toc-speaker-2-tbc" class="nav-link" data-scroll-target="#speaker-2-tbc">Speaker 2 TBC</a></li>
+  <li><a href="#mcmc-when-you-do-not-want-to-evaluate-the-target-distribution" id="toc-mcmc-when-you-do-not-want-to-evaluate-the-target-distribution" class="nav-link active" data-scroll-target="#mcmc-when-you-do-not-want-to-evaluate-the-target-distribution">MCMC when you do not want to evaluate the target distribution</a></li>
   </ul>
 </nav>
     </div>
@@ -195,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">May 2024</h1>
+<h1 class="title">April 2024 II</h1>
 </div>
 
 
@@ -210,16 +210,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Date: <strong>4PM Friday 24th May 2024</strong></p>
-<p>Room: <a href="../psc_rooms.html">Salle 06</a>, <a href="https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9">PariSanté Campus</a></p>
+<p>Date: <strong>4PM Wednesday 24th April 2024</strong></p>
+<p>Room: <a href="../psc_rooms.html">Salle 08</a>, <a href="https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9">PariSanté Campus</a></p>
 <hr>
-<section id="title-tbc" class="level3">
-<h3 class="anchored" data-anchor-id="title-tbc">Title TBC</h3>
-<p><strong>Gabriel Stoltz</strong> <em>CERMICS, Ecole des Ponts</em></p>
-<p>Abstract TBC</p>
-</section>
-<section id="speaker-2-tbc" class="level3">
-<h3 class="anchored" data-anchor-id="speaker-2-tbc">Speaker 2 TBC</h3>
+<section id="mcmc-when-you-do-not-want-to-evaluate-the-target-distribution" class="level3">
+<h3 class="anchored" data-anchor-id="mcmc-when-you-do-not-want-to-evaluate-the-target-distribution">MCMC when you do not want to evaluate the target distribution</h3>
+<p><strong>Guanyang Wang</strong> <em>Rutgers University</em></p>
+<p>In sampling tasks, it is common for target distributions to be known up to a normalizing constant. However, in many situations, evaluating even the unnormalized distribution can be costly or infeasible. This issue arises in scenarios such as sampling from the Bayesian posterior for large datasets and the ‘doubly intractable’ distributions. We provide a way to unify various MCMC algorithms, including several minibatch MCMC algorithms and the exchange algorithm. This framework not only simplifies the theoretical analysis of existing algorithms but also creates new algorithms. Similar frameworks exist in the literature, but they concentrate on different objectives.</p>
 
 
 </section>
@@ -460,11 +457,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../sem/s2024_04_sp.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">April 2024 II</span>
+      <a href="../sem/s2024_04.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">April 2024 I</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="../sem/s2024_05.html" class="pagination-link">
+        <span class="nav-page-text">May 2024</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->

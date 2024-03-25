@@ -21,6 +21,7 @@ website:
       - sem/s2024_02.qmd
       - sem/s2024_03.qmd
       - sem/s2024_04.qmd
+      - sem/s2024_04_sp.qmd
       - sem/s2024_05.qmd
   page-navigation: true
 
