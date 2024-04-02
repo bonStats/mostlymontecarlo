@@ -16,8 +16,8 @@ Variational Inference methods are optimization-based methods that have generated
 
 Reference: K. Daudel, J. Benton, Y. Shi and A. Doucet (2023). Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics. Journal of Machine Learning Research, 24(243):1−83.
 
-### Title TBC
+### Sampling from multimodal distributions with stochastic localization
 
 **Maxence Noble** *CMAP, École Polytechnique*
 
-Abstract TBC
+Building upon score-based learning, new interest in stochastic localization techniques has recently emerged. In these models, one seeks to noise a sample from the data distribution through a stochastic process, called observation process, and progressively learns a denoiser associated to this dynamics. Apart from specific applications, the use of stochastic localization for the problem of sampling from an unnormalized target density has not been explored extensively. This work contributes to fill this gap. We consider a general stochastic localization framework and introduce an explicit class of observation processes, associated with flexible denoising schedules. We provide a complete methodology, *Stochastic Localization via Iterative Posterior Sampling* (**SLIPS**), to obtain approximate samples of these dynamics, and as a by-product, samples from the target distribution. Our scheme is based on a Markov chain Monte Carlo estimation of the denoiser and comes with detailed practical guidelines. We illustrate the benefits and applicability of **SLIPS** on the challenging setting of sampling from multimodal distributions.
