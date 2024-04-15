@@ -8,10 +8,14 @@ Room: [Salle 06](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 
 ------------------------------------------------------------------------
 
-### Title TBC
+### **Gabriel Stoltz:** Title TBC
 
 **Gabriel Stoltz** *CERMICS, Ecole des Ponts*
 
 Abstract TBC
 
-### Speaker 2 TBC
+### **Augustin Chevallier:** Title TBC
+
+**Augustin Chevallier** *Université de Strasbourg*
+
+Abstract TBC

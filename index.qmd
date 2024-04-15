@@ -13,14 +13,13 @@ Organised by Andrea Bertazzi and Joshua Bon.
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 12th April
+## Next Seminar: 24th April
 
-[Salle 06](psc_rooms.qmd), 4PM Friday
+[Salle 08](psc_rooms.qmd), 4PM Wednesday
 
--   Kamélia Daudel (ESSEC Business School)
--   Maxence Noble (CMAP, École Polytechnique)
+-   Guanyang Wang (Rutgers University)
 
-[More details](sem/s2024_04.qmd)[...](sem/s2024_03.qmd)
+[More details](sem/s2024_04_sp.qmd)[...](sem/s2024_03.qmd)
 :::
 
 ## Join the mailing list
