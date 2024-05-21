@@ -18,8 +18,8 @@ Sampling high dimensional probability measures is often made difficult by the mu
 \[2\] Z. Belkacemi, P. Gkeka, T. Lelièvre, G. Stoltz, Chasing collective variables using autoencoders and biased trajectories, J. Chem. Theory Comput. 18(1), 59-78 (2022)\
 \[3\] T. Lelièvre, T. Pigeon, G. Stoltz and W. Zhang, Analyzing multimodal probability measures with autoencoders, J. Phys. Chem. B 128(11), 2607-2631 (2024)
 
-### PDMP Monte Carlo methods
+### Adaptive MCMC sampling using a Metropolized PDMP sampler combined with a No-U-Turn criterion
 
 **Augustin Chevallier** *Université de Strasbourg*
 
-Abstract TBC
+Adaptivity in MCMC algorithms is hard to achieve. In Hamiltonian Monte Carlo, for example, it is possible to tune the path length using the No-U-Turn sampler, but the numerical step size cannot be adapted; it can only be tuned. We propose here a new class of algorithm based on Metropolizing a numerical approximation of a PDMP sampler. Like HMC, these samplers require two parameters: a numerical step size and a path length. Unlike HMC, both parameters can be adapted. This paves the way for more robust sampling algorithms, especially for difficult target densities.

@@ -186,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#importance-sampling-with-free-energies-and-autoencoders-for-multimodal-probability-distributions" id="toc-importance-sampling-with-free-energies-and-autoencoders-for-multimodal-probability-distributions" class="nav-link active" data-scroll-target="#importance-sampling-with-free-energies-and-autoencoders-for-multimodal-probability-distributions">Importance sampling with free energies and autoencoders for multimodal probability distributions</a></li>
-  <li><a href="#pdmp-monte-carlo-methods" id="toc-pdmp-monte-carlo-methods" class="nav-link" data-scroll-target="#pdmp-monte-carlo-methods">PDMP Monte Carlo methods</a></li>
+  <li><a href="#adaptive-mcmc-sampling-using-a-metropolized-pdmp-sampler-combined-with-a-no-u-turn-criterion" id="toc-adaptive-mcmc-sampling-using-a-metropolized-pdmp-sampler-combined-with-a-no-u-turn-criterion" class="nav-link" data-scroll-target="#adaptive-mcmc-sampling-using-a-metropolized-pdmp-sampler-combined-with-a-no-u-turn-criterion">Adaptive MCMC sampling using a Metropolized PDMP sampler combined with a No-U-Turn criterion</a></li>
   </ul>
 </nav>
     </div>
@@ -222,10 +222,10 @@ ul.task-list li input[type="checkbox"] {
 [2] Z. Belkacemi, P. Gkeka, T. Lelièvre, G. Stoltz, Chasing collective variables using autoencoders and biased trajectories, J. Chem. Theory Comput. 18(1), 59-78 (2022)<br>
 [3] T. Lelièvre, T. Pigeon, G. Stoltz and W. Zhang, Analyzing multimodal probability measures with autoencoders, J. Phys. Chem. B 128(11), 2607-2631 (2024)</p>
 </section>
-<section id="pdmp-monte-carlo-methods" class="level3">
-<h3 class="anchored" data-anchor-id="pdmp-monte-carlo-methods">PDMP Monte Carlo methods</h3>
+<section id="adaptive-mcmc-sampling-using-a-metropolized-pdmp-sampler-combined-with-a-no-u-turn-criterion" class="level3">
+<h3 class="anchored" data-anchor-id="adaptive-mcmc-sampling-using-a-metropolized-pdmp-sampler-combined-with-a-no-u-turn-criterion">Adaptive MCMC sampling using a Metropolized PDMP sampler combined with a No-U-Turn criterion</h3>
 <p><strong>Augustin Chevallier</strong> <em>Université de Strasbourg</em></p>
-<p>Abstract TBC</p>
+<p>Adaptivity in MCMC algorithms is hard to achieve. In Hamiltonian Monte Carlo, for example, it is possible to tune the path length using the No-U-Turn sampler, but the numerical step size cannot be adapted; it can only be tuned. We propose here a new class of algorithm based on Metropolizing a numerical approximation of a PDMP sampler. Like HMC, these samplers require two parameters: a numerical step size and a path length. Unlike HMC, both parameters can be adapted. This paves the way for more robust sampling algorithms, especially for difficult target densities.</p>
 
 
 </section>
