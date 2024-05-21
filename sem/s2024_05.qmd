@@ -18,7 +18,7 @@ Sampling high dimensional probability measures is often made difficult by the mu
 \[2\] Z. Belkacemi, P. Gkeka, T. Lelièvre, G. Stoltz, Chasing collective variables using autoencoders and biased trajectories, J. Chem. Theory Comput. 18(1), 59-78 (2022)\
 \[3\] T. Lelièvre, T. Pigeon, G. Stoltz and W. Zhang, Analyzing multimodal probability measures with autoencoders, J. Phys. Chem. B 128(11), 2607-2631 (2024)
 
-### **Augustin Chevallier:** Title TBC
+### PDMP Monte Carlo methods
 
 **Augustin Chevallier** *Université de Strasbourg*
 

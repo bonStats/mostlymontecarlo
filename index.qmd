@@ -13,13 +13,14 @@ Organised by Andrea Bertazzi and Joshua Bon.
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 24th April
+## Next Seminar: 24th May
 
-[Salle 08](psc_rooms.qmd), 4PM Wednesday
+[Salle 06](psc_rooms.qmd), 4PM Wednesday
 
--   Guanyang Wang (Rutgers University)
+-   **Gabriel Stoltz** *CERMICS, Ecole des Ponts* and *Matherials team-project, Inria Paris*
+-   **Augustin Chevallier** *Université de Strasbourg*
 
-[More details](sem/s2024_04_sp.qmd)[...](sem/s2024_03.qmd)
+[More details...](sem/s2024_05.qmd)
 :::
 
 ## Join the mailing list
