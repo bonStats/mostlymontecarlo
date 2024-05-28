@@ -13,14 +13,13 @@ Organised by Andrea Bertazzi and Joshua Bon.
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 24th May
+## Next Seminar: 13th September
 
-[Salle 06](psc_rooms.qmd), 4PM Friday
+[Salle 03](psc_rooms.qmd), 4PM Friday
 
--   **Gabriel Stoltz** *CERMICS, Ecole des Ponts* and *Matherials team-project, Inria Paris*
--   **Augustin Chevallier** *Université de Strasbourg*
+-   **Speakers TBA**
 
-[More details...](sem/s2024_05.qmd)
+[More details...](sem/s2024_09.qmd)
 :::
 
 ## Join the mailing list

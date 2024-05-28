@@ -23,6 +23,10 @@ website:
       - sem/s2024_04.qmd
       - sem/s2024_04_sp.qmd
       - sem/s2024_05.qmd
+      - sem/s2024_09.qmd
+      - sem/s2024_10.qmd
+      - sem/s2024_11.qmd
+      - sem/s2024_12.qmd
   page-navigation: true
 
 format:
