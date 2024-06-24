@@ -8,9 +8,9 @@ Room: [Auditorium](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.g
 
 ------------------------------------------------------------------------
 
-### TBA
+### Title TBA
 
-**Speaker** *Affiliation*
+**Nicolas Chopin** *ENSAE-CREST, Institut Polytechnique de Paris*
 
 Abstract
 
