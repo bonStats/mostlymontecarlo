@@ -14,8 +14,8 @@ Room: [Salle 03](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 
 We introduce a class of algorithms, termed Proximal Interacting Particle Langevin Algorithms (PIPLA), for inference and learning in latent variable models whose joint probability density is non-differentiable. Leveraging proximal Markov chain Monte Carlo (MCMC) techniques and the recently introduced interacting particle Langevin algorithm (IPLA), we propose several variants within the novel proximal IPLA family, tailored to the problem of estimating parameters in a non-differentiable statistical model. We prove nonasymptotic bounds for the parameter estimates produced by the different algorithms in the strongly log-concave setting and provide comprehensive numerical experiments on various models to demonstrate the effectiveness of the proposed methods. In particular, we demonstrate the utility of our family of algorithms on a toy hierarchical example where our assumptions can be checked, as well as for sparse Bayesian logistic regression, training of sparse Bayesian neural networks, and sparse matrix completion. Our theory and experiments together show that PIPLA family can be the de facto choice for parameter estimation problems in non-differentiable latent variable models.
 
-### TBA
+### Numerical Methods for SDEs with Irregular Coefficients
 
-**Speaker** *Affiliation*
+**Tim Johnston** *Ceremade, Université Paris Dauphine-PSL*
 
-Abstract
+In this talk we discuss numerical methods for SDEs with irregular coefficients. We survey a number of results in the numerical analysis literature that demonstrate that the accuracy of numerical methods does not necessarily degenerate with the regularity of the drift coefficient. Finally we discuss applications to stochastic algorithms.
