@@ -8,7 +8,7 @@ A monthly seminar on the theory and practice of Monte Carlo in statistics and da
 
 Held on the **2nd Friday of each month** (approximately) at the **PariSanté Campus**.
 
-Organised by Andrea Bertazzi and Joshua Bon.
+Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 
 ------------------------------------------------------------------------
 
