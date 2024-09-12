@@ -8,9 +8,9 @@ Room: [Salle 03](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/
 
 ------------------------------------------------------------------------
 
-### TBA
+### Title TBA
 
-**Speaker** *Affiliation*
+**Louis Grenioux** *CMAP, École Polytechnique*
 
 Abstract
 
