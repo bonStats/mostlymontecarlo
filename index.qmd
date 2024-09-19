@@ -13,9 +13,9 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 13th September
+## Next Seminar: 11th October
 
-[Salle 03](psc_rooms.qmd), 4PM Friday
+[Auditorium](psc_rooms.qmd), 4PM Friday
 
 -   **Giorgos Vasdekis** *Newcastle University*
 -   **Saifuddin Syed** *Oxford University*
