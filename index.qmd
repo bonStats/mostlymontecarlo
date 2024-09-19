@@ -17,10 +17,10 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 
 [Salle 03](psc_rooms.qmd), 4PM Friday
 
--   **Francesca Crucinio** *King’s College London*
--   **Tim Johnston** *Université Paris Dauphine-PSL*
+-   **Giorgos Vasdekis** *Newcastle University*
+-   **Saifuddin Syed** *Oxford University*
 
-[More details...](sem/s2024_09.qmd)
+[More details...](sem/s2024_10.qmd)
 :::
 
 ## Join the mailing list
