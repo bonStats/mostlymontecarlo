@@ -8,11 +8,13 @@ Room: [Auditorium](../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.g
 
 ------------------------------------------------------------------------
 
-### Title TBA
+### Skew-symmetric schemes for SDEs and where to find them
 
 **Giorgos Vasdekis** *Newcastle University*
 
-Abstract
+Locally balancing algorithms are a new class of MCMC algorithms, recently introduced in (Livingstone and Zanella, 2022). One of these algorithms, the Barker algorithm, has been shown to be robust to heteroskedasticity of the posterior target and the step size of the algorithm. At the same time, the algorithm seems to preserve high dimensional properties of state-of-the-art MCMC, making it an interesting alternative to the existing literature. It turns out that in order to sample from the Barker algorithm, one can use ideas of sampling from skew-symmetric distributions. We will transfer these ideas in the context of simulating from diffusion processes and we will suggest a new class of unadjusted MCMC algorithms, which are robust with respect to the step size.
+
+This is joint work with S. Livingstone, N. Nusken and R. Zhang.
 
 ### TBA
 
