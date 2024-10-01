@@ -218,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#skew-symmetric-schemes-for-sdes-and-where-to-find-them" id="toc-skew-symmetric-schemes-for-sdes-and-where-to-find-them" class="nav-link active" data-scroll-target="#skew-symmetric-schemes-for-sdes-and-where-to-find-them">Skew-symmetric schemes for SDEs and where to find them</a></li>
-  <li><a href="#tba" id="toc-tba" class="nav-link" data-scroll-target="#tba">TBA</a></li>
+  <li><a href="#scalable-sampling-using-annealing-and-sequential-monte-carlo-samplers" id="toc-scalable-sampling-using-annealing-and-sequential-monte-carlo-samplers" class="nav-link" data-scroll-target="#scalable-sampling-using-annealing-and-sequential-monte-carlo-samplers">Scalable sampling using annealing and sequential Monte Carlo samplers</a></li>
   </ul>
 </nav>
     </div>
@@ -253,10 +253,11 @@ ul.task-list li input[type="checkbox"] {
 <p>Locally balancing algorithms are a new class of MCMC algorithms, recently introduced in (Livingstone and Zanella, 2022). One of these algorithms, the Barker algorithm, has been shown to be robust to heteroskedasticity of the posterior target and the step size of the algorithm. At the same time, the algorithm seems to preserve high dimensional properties of state-of-the-art MCMC, making it an interesting alternative to the existing literature. It turns out that in order to sample from the Barker algorithm, one can use ideas of sampling from skew-symmetric distributions. We will transfer these ideas in the context of simulating from diffusion processes and we will suggest a new class of unadjusted MCMC algorithms, which are robust with respect to the step size.</p>
 <p>This is joint work with S. Livingstone, N. Nusken and R. Zhang.</p>
 </section>
-<section id="tba" class="level3">
-<h3 class="anchored" data-anchor-id="tba">TBA</h3>
+<section id="scalable-sampling-using-annealing-and-sequential-monte-carlo-samplers" class="level3">
+<h3 class="anchored" data-anchor-id="scalable-sampling-using-annealing-and-sequential-monte-carlo-samplers">Scalable sampling using annealing and sequential Monte Carlo samplers</h3>
 <p><strong>Saifuddin Syed</strong> <em>Oxford University</em></p>
-<p>Abstract</p>
+<p>Generating samples from complex probability distributions is a fundamental challenge in statistical modelling and Bayesian statistics. In practice, this is generally impossible, and we must introduce a simpler reference distribution, such as a Gaussian, and manipulate its density and samples to approximate the target. In general, direct inference is reliable when the reference is close to the target and fragile when it is not. Annealing is a popular technique motivated by this principle and introduces a sequence of distributions that interpolates between the reference and target, ensuring the neighbouring distributions are close enough. An annealing algorithm specifies how to traverse this bridge of distributions to incrementally transform samples from the reference into samples approximating the target.</p>
+<p>In this talk, we will analyse a popular annealing algorithm, Sequential Monte Carlo Samplers (SMCS), which sequentially propagates samples from the reference to the target using importance sampling. We will see how SMCS’s performance scales with increasing runtime, parallelism, memory, and the difficulty of the inference problem. We will then use these theoretical insights to develop a black-box algorithm for efficiently tuning SMCS and related annealing algorithms.</p>
 
 
 </section>

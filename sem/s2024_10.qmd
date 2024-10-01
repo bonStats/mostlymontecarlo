@@ -16,8 +16,10 @@ Locally balancing algorithms are a new class of MCMC algorithms, recently introd
 
 This is joint work with S. Livingstone, N. Nusken and R. Zhang.
 
-### TBA
+### Scalable sampling using annealing and sequential Monte Carlo samplers
 
 **Saifuddin Syed** *Oxford University*
 
-Abstract
+Generating samples from complex probability distributions is a fundamental challenge in statistical modelling and Bayesian statistics. In practice, this is generally impossible, and we must introduce a simpler reference distribution, such as a Gaussian, and manipulate its density and samples to approximate the target. In general, direct inference is reliable when the reference is close to the target and fragile when it is not. Annealing is a popular technique motivated by this principle and introduces a sequence of distributions that interpolates between the reference and target, ensuring the neighbouring distributions are close enough. An annealing algorithm specifies how to traverse this bridge of distributions to incrementally transform samples from the reference into samples approximating the target.
+
+In this talk, we will analyse a popular annealing algorithm, Sequential Monte Carlo Samplers (SMCS), which sequentially propagates samples from the reference to the target using importance sampling. We will see how SMCS's performance scales with increasing runtime, parallelism, memory, and the difficulty of the inference problem. We will then use these theoretical insights to develop a black-box algorithm for efficiently tuning SMCS and related annealing algorithms.
