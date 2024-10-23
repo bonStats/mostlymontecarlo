@@ -13,14 +13,14 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 11th October
+## Next Seminar: 22nd November
 
 [Auditorium](psc_rooms.qmd), 4PM Friday
 
--   **Giorgos Vasdekis** *Newcastle University*
--   **Saifuddin Syed** *Oxford University*
+-   **Nicolas Chopin** *ENSAE-CREST, Institut Polytechnique de Paris*
+-   **Guillaume Kon Kam King** *INRAE*
 
-[More details...](sem/s2024_10.qmd)
+[More details...](sem/s2024_11.qmd)
 :::
 
 ## Join the mailing list

@@ -16,6 +16,6 @@ Abstract
 
 ### TBA
 
-**Speaker** *Affiliation*
+**Guillaume Chennetier** *EDF and CMAP, École Polytechnique*
 
 Abstract
