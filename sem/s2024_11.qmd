@@ -16,8 +16,8 @@ Assuming X is a random vector and A a non-invertible matrix, one sometimes need 
 
 Joint work with Robin Ryder (Imperial) and Théo Voldoire (Harvard University). Link: <https://arxiv.org/abs/2410.18243>
 
-### Title TBA
+### Exact and approximate filtering via discrete dual processes
 
 **Guillaume Kon Kam King** *INRAE*
 
-Abstract
+Exact inference for hidden Markov models requires the evaluation of all distributions of interest – filtering, prediction, smoothing and likelihood – with a finite computational effort. We provide sufficient conditions for exact inference for a class of hidden Markov models on general state spaces given a set of discretely collected indirect observations linked non linearly to the signal, and a set of practical algorithms for inference. The conditions we obtain are concerned with the existence of a certain type of dual process, which is an auxiliary process embedded in the time reversal of the signal, that in turn allows to represent the distributions and functions of interest as finite mixtures of elementary densities or products thereof. We then turn to a more general class of dual processes which do not provide computable expressions for the filtering distributions but countable mixtures indexed by the dual process state space. We investigate the performance of our strategies on two hidden Markov models driven by Cox–Ingersoll–Ross and Wright–Fisher diffusions.

@@ -236,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#saddlepoint-monte-carlo-and-its-application-to-the-statistical-analysis-of-vote-carryover-in-french-elections" id="toc-saddlepoint-monte-carlo-and-its-application-to-the-statistical-analysis-of-vote-carryover-in-french-elections" class="nav-link active" data-scroll-target="#saddlepoint-monte-carlo-and-its-application-to-the-statistical-analysis-of-vote-carryover-in-french-elections">Saddlepoint Monte Carlo and its application to the statistical analysis of vote carryover in French elections</a></li>
-  <li><a href="#title-tba" id="toc-title-tba" class="nav-link" data-scroll-target="#title-tba">Title TBA</a></li>
+  <li><a href="#exact-and-approximate-filtering-via-discrete-dual-processes" id="toc-exact-and-approximate-filtering-via-discrete-dual-processes" class="nav-link" data-scroll-target="#exact-and-approximate-filtering-via-discrete-dual-processes">Exact and approximate filtering via discrete dual processes</a></li>
   </ul>
 </nav>
     </div>
@@ -271,10 +271,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Assuming X is a random vector and A a non-invertible matrix, one sometimes need to perform inference while only having access to samples of Y = AX. The corresponding likelihood is typically intractable. One may still be able to perform exact Bayesian inference using a pseudo-marginal sampler, but this requires an unbiased estimator of the intractable likelihood. We propose saddlepoint Monte Carlo, a method for obtaining an unbiased estimate of the density of Y with very low variance, for any model belonging to an exponential family. Our method relies on importance sampling of the characteristic function, with insights brought by the standard saddlepoint approximation scheme with exponential tilting. We show that saddlepoint Monte Carlo makes it possible to perform exact inference on particularly challenging problems and datasets. We focus on the ecological inference problem, where one observes only aggregates at a fine level. We present in particular a study of the carryover of votes between the two rounds of various French elections, using the finest available data (number of votes for each candidate in about 60,000 polling stations over most of the French territory). We show that existing, popular approximate methods for ecological inference can lead to substantial bias, which saddlepoint Monte Carlo is immune from. We also present original results for the 2024 legislative elections on political centre-to-left and left-to-centre conversion rates when the far-right is present in the second round. Finally, we discuss other exciting applications for saddlepoint Monte Carlo, such as dealing with aggregate data in privacy or inverse problems.</p>
 <p>Joint work with Robin Ryder (Imperial) and Théo Voldoire (Harvard University). Link: <a href="https://arxiv.org/abs/2410.18243" class="uri">https://arxiv.org/abs/2410.18243</a></p>
 </section>
-<section id="title-tba" class="level3">
-<h3 class="anchored" data-anchor-id="title-tba">Title TBA</h3>
+<section id="exact-and-approximate-filtering-via-discrete-dual-processes" class="level3">
+<h3 class="anchored" data-anchor-id="exact-and-approximate-filtering-via-discrete-dual-processes">Exact and approximate filtering via discrete dual processes</h3>
 <p><strong>Guillaume Kon Kam King</strong> <em>INRAE</em></p>
-<p>Abstract</p>
+<p>Exact inference for hidden Markov models requires the evaluation of all distributions of interest – filtering, prediction, smoothing and likelihood – with a finite computational effort. We provide sufficient conditions for exact inference for a class of hidden Markov models on general state spaces given a set of discretely collected indirect observations linked non linearly to the signal, and a set of practical algorithms for inference. The conditions we obtain are concerned with the existence of a certain type of dual process, which is an auxiliary process embedded in the time reversal of the signal, that in turn allows to represent the distributions and functions of interest as finite mixtures of elementary densities or products thereof. We then turn to a more general class of dual processes which do not provide computable expressions for the filtering distributions but countable mixtures indexed by the dual process state space. We investigate the performance of our strategies on two hidden Markov models driven by Cox–Ingersoll–Ross and Wright–Fisher diffusions.</p>
 
 
 </section>
