@@ -20,7 +20,7 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 -   **Louis Grenioux** *CMAP, École Polytechnique*
 -   **Guillaume Chennetier** *EDF and CMAP, École Polytechnique*
 
-[More details...](sem/s2024_12.qmd)
+[More details...](sem/2024/s2024_12.qmd)
 :::
 
 ## Join the mailing list

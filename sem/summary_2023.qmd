@@ -1,0 +1,8 @@
+---
+  title: "Seminars 2023"
+  listing:
+    contents:
+      - "2023/*.qmd"
+    sort:
+      - "date"
+---

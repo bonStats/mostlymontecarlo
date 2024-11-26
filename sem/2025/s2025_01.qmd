@@ -1,8 +1,10 @@
 ---
-  title: "MONTH 2024"
+  title: "January"
+  date: "2025-01-10"
+  date-format: "DD/MM"
 ---
 
-Date: **4PM Friday XXth MONTH 2024**
+Date: **4PM Friday 10th January 2025**
 
 Room: [Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 

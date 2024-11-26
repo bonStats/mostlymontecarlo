@@ -1,0 +1,23 @@
+---
+  title: "December"
+  date: "2024-12-13"
+  date-format: "DD/MM"
+---
+
+Date: **4PM Friday 13th December 2024**
+
+Room: [Salle 03](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+
+------------------------------------------------------------------------
+
+### Title TBA
+
+**Louis Grenioux** *CMAP, École Polytechnique*
+
+Abstract
+
+### TBA
+
+**Guillaume Chennetier** *EDF and CMAP, École Polytechnique*
+
+Abstract

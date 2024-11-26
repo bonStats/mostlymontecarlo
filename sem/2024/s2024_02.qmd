@@ -1,0 +1,25 @@
+---
+  title: "February"
+  date: "2024-02-16"
+  date-format: "DD/MM"
+---
+
+Date: **4PM Friday 16th February 2024**
+
+Room: [Salle 07](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+
+------------------------------------------------------------------------
+
+### Sampling probability distributions on constrained spaces
+
+**Pierre Jacob** *ESSEC* *Business School*
+
+I will describe the problem of designing MCMC samplers for probability distributions that are supported on submanifolds, and its relevance in statistics (hypothesis testing, Bayesian inference), and how one may implement couplings of such MCMC kernels. The question also arises when the target is supported in $R^d$ and one wants to propose moves along the contour of the target density function, which could be well motivated, and has been suggested multiple times in the literature. Joint work with Elena Bortolato (Padova) and Robin Ryder (Paris-Dauphine).
+
+### Insufficient Gibbs Sampling
+
+**Antoine Luciano** *Ceremade, Université Paris Dauphine-PSL*
+
+In some applied scenarios, the availability of complete data is restricted, often due to privacy concerns, and only aggregated, robust and inefficient statistics derived from the data are accessible. These robust statistics are not sufficient, but they demonstrate reduced sensitivity to outliers and offer enhanced data protection due to their higher breakdown point. In this article, operating within a parametric framework, we propose a method to sample from the posterior distribution of parameters conditioned on different robust and inefficient statistics: specifically, the pairs (median, MAD) or (median, IQR), or one or more quantiles. Leveraging a Gibbs sampler and the simulation of latent augmented data, our approach facilitates simulation according to the posterior distribution of parameters belonging to specific families of distributions. We demonstrate its applicability on the Gaussian, Cauchy, and translated Weibull families.
+
+(Preprint: <https://arxiv.org/abs/2307.14973>)

@@ -14,22 +14,31 @@ website:
     style: "docked"
     search: true
     contents:
-      - sem/s2023_10.qmd
-      - sem/s2023_11.qmd
-      - sem/s2023_12.qmd
-      - sem/s2024_01.qmd
-      - sem/s2024_02.qmd
-      - sem/s2024_03.qmd
-      - sem/s2024_04.qmd
-      - sem/s2024_04_sp.qmd
-      - sem/s2024_05.qmd
-      - sem/s2024_09.qmd
-      - sem/s2024_10.qmd
-      - sem/s2024_11.qmd
-      - sem/s2024_12.qmd
-      - sem/s2025_01.qmd
-      - sem/s2025_02.qmd
-      - sem/s2025_03.qmd
+      - section: "2025"
+        href: sem/summary_2025.qmd
+        contents:
+          - sem/2025/s2025_01.qmd
+          - sem/2025/s2025_02.qmd
+          - sem/2025/s2025_03.qmd
+      - section: "2024"
+        href: sem/summary_2024.qmd
+        contents:
+          - sem/2024/s2024_01.qmd
+          - sem/2024/s2024_02.qmd
+          - sem/2024/s2024_03.qmd
+          - sem/2024/s2024_04.qmd
+          - sem/2024/s2024_04_sp.qmd
+          - sem/2024/s2024_05.qmd
+          - sem/2024/s2024_09.qmd
+          - sem/2024/s2024_10.qmd
+          - sem/2024/s2024_11.qmd
+          - sem/2024/s2024_12.qmd
+      - section: "2023"
+        href: sem/summary_2023.qmd
+        contents:
+          - sem/2023/s2023_10.qmd
+          - sem/2023/s2023_11.qmd
+          - sem/2023/s2023_12.qmd
   page-navigation: true
 
 format:
