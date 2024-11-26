@@ -1,12 +1,11 @@
 ---
   title: "February"
-  date: "2025-02-14"
-  date-format: "DD/MM"
+  date: "2025-02-14 16:00"
+  published-title: "Time and date"
+  date-format: "hA dddd, MMM D, YYYY"
 ---
 
-Date: **4PM Friday 14th February 2025**
-
-Room: [Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+[Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 
 ------------------------------------------------------------------------
 
@@ -21,3 +20,4 @@ Abstract
 **Speaker** *Affiliation*
 
 Abstract
+
