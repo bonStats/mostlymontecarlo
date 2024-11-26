@@ -13,14 +13,14 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 22nd November
+## Next Seminar: 13th December
 
-[Auditorium](psc_rooms.qmd), 4PM Friday
+[Salle 03](psc_rooms.qmd), 4PM Friday
 
--   **Nicolas Chopin** *ENSAE-CREST, Institut Polytechnique de Paris*
--   **Guillaume Kon Kam King** *INRAE*
+-   **Louis Grenioux** *CMAP, École Polytechnique*
+-   **Guillaume Chennetier** *EDF and CMAP, École Polytechnique*
 
-[More details...](sem/s2024_11.qmd)
+[More details...](sem/s2024_12.qmd)
 :::
 
 ## Join the mailing list
