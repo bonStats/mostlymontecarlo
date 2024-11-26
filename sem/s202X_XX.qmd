@@ -1,8 +1,9 @@
 ---
-  title: "MONTH 2024"
+  title: "MONTH"
+  date: "20XX-XX-XX 16:00"
+  published-title: "Time and date"
+  date-format: "hA dddd, MMM D, YYYY"
 ---
-
-Date: **4PM Friday XXth MONTH 2024**
 
 Room: [Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 
