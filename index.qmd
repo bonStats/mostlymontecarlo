@@ -17,8 +17,8 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 
 [Salle 03](psc_rooms.qmd), 4PM Friday
 
--   **Louis Grenioux** *CMAP, École Polytechnique*
--   **Guillaume Chennetier** *EDF and CMAP, École Polytechnique*
+-   **Louis Grenioux** *CMAP, École polytechnique*
+-   **Guillaume Chennetier** *CERMICS, École nationale des ponts et chaussées*
 
 [More details...](sem/2024/s2024_12.qmd)
 :::

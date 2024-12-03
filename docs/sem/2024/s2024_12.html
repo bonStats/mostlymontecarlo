@@ -269,7 +269,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#learned-reference-based-diffusion-sampler-for-multi-modal-distributions" id="toc-learned-reference-based-diffusion-sampler-for-multi-modal-distributions" class="nav-link active" data-scroll-target="#learned-reference-based-diffusion-sampler-for-multi-modal-distributions"><strong>Learned Reference-based Diffusion Sampler for multi-modal distributions</strong></a></li>
-  <li><a href="#tba" id="toc-tba" class="nav-link" data-scroll-target="#tba">TBA</a></li>
+  <li><a href="#graph-informed-importance-sampling-for-piecewise-deterministic-markov-processes.-application-in-reliability-assessment." id="toc-graph-informed-importance-sampling-for-piecewise-deterministic-markov-processes.-application-in-reliability-assessment." class="nav-link" data-scroll-target="#graph-informed-importance-sampling-for-piecewise-deterministic-markov-processes.-application-in-reliability-assessment.">Graph-informed importance sampling for piecewise deterministic Markov processes. Application in reliability assessment.</a></li>
   </ul>
 </nav>
     </div>
@@ -305,13 +305,13 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <section id="learned-reference-based-diffusion-sampler-for-multi-modal-distributions" class="level3">
 <h3 class="anchored" data-anchor-id="learned-reference-based-diffusion-sampler-for-multi-modal-distributions"><strong>Learned Reference-based Diffusion Sampler for multi-modal distributions</strong></h3>
-<p><strong>Louis Grenioux</strong> <em>CMAP, École Polytechnique</em></p>
+<p><strong>Louis Grenioux</strong> <em>CMAP, École polytechnique</em></p>
 <p>Over the past few years, several approaches utilizing score-based diffusion have been proposed to sample from probability distributions, that is without having access to exact samples and relying solely on evaluations of unnormalized densities. The resulting samplers approximate the time-reversal of a noising diffusion process, bridging the target distribution to an easy-to-sample base distribution. In practice, the performance of these methods heavily depends on key hyperparameters that require ground truth samples to be accurately tuned. Our work aims to highlight and address this fundamental issue, focusing in particular on multi-modal distributions, which pose significant challenges for existing sampling methods. Building on existing approaches, we introduce Learned Reference-based Diffusion Sampler (LRDS), a methodology specifically designed to leverage prior knowledge on the location of the target modes in order to bypass the obstacle of hyperparameter tuning. LRDS proceeds in two steps by (i) learning a reference diffusion model on samples located in high-density space regions and tailored for multimodality, and (ii) using this reference model to foster the training of a diffusion-based sampler.</p>
 </section>
-<section id="tba" class="level3">
-<h3 class="anchored" data-anchor-id="tba">TBA</h3>
-<p><strong>Guillaume Chennetier</strong> <em>EDF and CMAP, École Polytechnique</em></p>
-<p>Abstract</p>
+<section id="graph-informed-importance-sampling-for-piecewise-deterministic-markov-processes.-application-in-reliability-assessment." class="level3">
+<h3 class="anchored" data-anchor-id="graph-informed-importance-sampling-for-piecewise-deterministic-markov-processes.-application-in-reliability-assessment.">Graph-informed importance sampling for piecewise deterministic Markov processes. Application in reliability assessment.</h3>
+<p><strong>Guillaume Chennetier</strong> <em>CERMICS, École nationale des ponts et chaussées</em></p>
+<p>Piecewise Deterministic Markov Processes (PDMPs) describe deterministic dynamical systems with parameters subject to random jumps, making them versatile tools for modeling complex phenomena. However, generating their trajectories can be computationally expensive. For a large class of inference problems, an optimal sampling strategy exists and relies on a generalized version of the “committor function” of the process. We propose a novel adaptive importance sampling method to efficiently generate rare trajectories of PDMPs. The approach involves a two-phase process. In a first offline phase, the PDMP is approximated by a simpler process on a graph, enabling explicit computation of key quantities used to build a low-cost approximation of the committor function. In a second online phase, PDMP trajectories are generated using a distribution informed by this approximation and iteratively refined via cross-entropy minimization. We provide asymptotic guarantees and demonstrate the method’s effectiveness by estimating the failure probability of a complex industrial system.</p>
 
 
 </section>
