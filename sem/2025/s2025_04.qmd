@@ -1,0 +1,22 @@
+---
+  title: "April"
+  date: "2025-04-11 16:00"
+  published-title: "Time and date"
+  date-format: "hA dddd, MMM D, YYYY"
+---
+
+[Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+
+------------------------------------------------------------------------
+
+### Title
+
+**Susan Wei** *University of Melbourne*
+
+Abstract
+
+### Title
+
+**Speaker** *Affiliation*
+
+Abstract
