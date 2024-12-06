@@ -11,7 +11,7 @@
 
 ### Title
 
-**Speaker** *Affiliation*
+**Andrea Pandolfi** *Bocconi University*
 
 Abstract
 
@@ -20,4 +20,3 @@ Abstract
 **Speaker** *Affiliation*
 
 Abstract
-
