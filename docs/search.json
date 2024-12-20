@@ -116,11 +116,23 @@
     ]
   },
   {
+    "objectID": "sem/2025/s2025_04.html",
+    "href": "sem/2025/s2025_04.html",
+    "title": "April",
+    "section": "",
+    "text": "Salle XX, PariSanté Campus\n\n\nTitle\nSusan Wei Monash University\nAbstract\n\n\nTitle\nSpeaker Affiliation\nAbstract",
+    "crumbs": [
+      "Home",
+      "2025",
+      "April"
+    ]
+  },
+  {
     "objectID": "sem/2025/s2025_02.html",
     "href": "sem/2025/s2025_02.html",
     "title": "February",
     "section": "",
-    "text": "Salle XX, PariSanté Campus\n\n\n\n\n\n\n\nSeminar time\n\n\n\nThis seminar is scheduled for 3PM (not the usual 4PM)\n\n\n\nTBA\nManon Michel LMBP, Université Clermont-Auvergne\nAbstract TBA\n\n\nTitle\nSpeaker Affiliation\nAbstract",
+    "text": "Salle 03, PariSanté Campus\n\n\n\n\n\n\n\nSeminar time\n\n\n\nThis seminar is scheduled for 3PM (not the usual 4PM)\n\n\n\nTBA\nManon Michel LMBP, Université Clermont-Auvergne\nAbstract TBA\n\n\nTitle\nSpeaker Affiliation\nAbstract",
     "crumbs": [
       "Home",
       "2025",
@@ -132,7 +144,7 @@
     "href": "sem/2025/s2025_01.html",
     "title": "January",
     "section": "",
-    "text": "Salle XX, PariSanté Campus\n\n\nTitle\nSpeaker Affiliation\nAbstract\n\n\nTitle\nSpeaker Affiliation\nAbstract",
+    "text": "Salle 03, PariSanté Campus\n\n\nTitle\nJacopo Iollo INRIA Rhone-Alpes\nAbstract\n\n\nTitle\nSpeaker Affiliation\nAbstract",
     "crumbs": [
       "Home",
       "2025",
@@ -144,12 +156,19 @@
     "href": "sem/2025/s2025_03.html",
     "title": "March",
     "section": "",
-    "text": "Salle XX, PariSanté Campus\n\n\nTitle\nAndrea Pandolfi Bocconi University\nAbstract\n\n\nTitle\nSpeaker Affiliation\nAbstract",
+    "text": "Salle 03, PariSanté Campus\n\n\nTitle\nAndrea Pandolfi Università Bocconi\nAbstract\n\n\nTitle\nJulien Stoehr Université Paris Dauphine, PSL\nAbstract",
     "crumbs": [
       "Home",
       "2025",
       "March"
     ]
+  },
+  {
+    "objectID": "sem/2025/s2025_05.html",
+    "href": "sem/2025/s2025_05.html",
+    "title": "May",
+    "section": "",
+    "text": "Room: Salle XX, PariSanté Campus\n\n\nTitle\nMartin Chak Università Bocconi\nAbstract\n\n\nTitle\nRémi Bardenet CNRS, Université de Lille\nAbstract"
   },
   {
     "objectID": "sem/2024/s2024_09.html",
@@ -216,7 +235,7 @@
     "href": "sem/summary_2025.html",
     "title": "Seminars 2025",
     "section": "",
-    "text": "January\n\n\n\n\n\n\n\n\n\n\n\nJan 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMarch\n\n\n\n\n\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nApril\n\n\n\n\n\n\n\n\n\n\n\nApr 11, 2025\n\n\n\n\n\n\nNo matching items",
+    "text": "May\n\n\n\n\n\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary\n\n\n\n\n\n\n\n\n\n\n\nJan 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMarch\n\n\n\n\n\n\n\n\n\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nApril\n\n\n\n\n\n\n\n\n\n\n\nApr 11, 2025\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "2025"
@@ -251,12 +270,5 @@
     "title": "Rooms at PariSanté",
     "section": "",
     "text": "Location: PariSanté Campus\n\nMore information on travelling to PariSanté and the facilities is available here."
-  },
-  {
-    "objectID": "sem/2025/s2025_04.html",
-    "href": "sem/2025/s2025_04.html",
-    "title": "April",
-    "section": "",
-    "text": "Salle XX, PariSanté Campus\n\n\nTitle\nSusan Wei Monash University\nAbstract\n\n\nTitle\nSpeaker Affiliation\nAbstract"
   }
 ]

@@ -5,18 +5,18 @@
   date-format: "hA dddd, MMM D, YYYY"
 ---
 
-[Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
+[Salle 03](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 
 ------------------------------------------------------------------------
 
 ### Title
 
-**Andrea Pandolfi** *Bocconi University*
+**Andrea Pandolfi** *Università Bocconi*
 
 Abstract
 
 ### Title
 
-**Speaker** *Affiliation*
+**Julien Stoehr** Université *Paris Dauphine, PSL*
 
 Abstract
