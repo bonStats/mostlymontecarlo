@@ -11,7 +11,8 @@ Room: [Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.
 
 ### Title
 
-**Martin Chak** *Università Bocconi*
+TBA
+<!--- **Martin Chak** *Università Bocconi* --->
 
 Abstract
 
@@ -20,3 +21,5 @@ Abstract
 **Rémi Bardenet** *CNRS, Université de Lille*
 
 Abstract
+
+
