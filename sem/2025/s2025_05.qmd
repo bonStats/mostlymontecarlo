@@ -11,8 +11,7 @@ Room: [Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.
 
 ### Title
 
-TBA
-<!--- **Martin Chak** *Università Bocconi* --->
+**Martin Chak** *Università Bocconi*
 
 Abstract
 
