@@ -13,14 +13,14 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 13th December
+## Next Seminar: 10th January
 
-[Salle 03](psc_rooms.qmd), 4PM Friday
+[Salle 03](psc_rooms.qmd), 3PM Friday
 
--   **Louis Grenioux** *CMAP, École polytechnique*
--   **Guillaume Chennetier** *CERMICS, École nationale des ponts et chaussées*
+-   **Jacopo Iollo** *INRIA Rhone-Alpes*
+-   **Andrea Bertazzi** *CMAP, École Polytechnique*
 
-[More details...](sem/2024/s2024_12.qmd)
+[More details...](sem/2025/s2025_01.qmd)
 :::
 
 ## Join the mailing list
