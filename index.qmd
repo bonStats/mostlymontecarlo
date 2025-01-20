@@ -13,14 +13,14 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 10th January
+## Next Seminar: 14th February
 
 [Salle 03](psc_rooms.qmd), 3PM Friday
 
--   **Jacopo Iollo** *INRIA Rhone-Alpes*
--   **Andrea Bertazzi** *CMAP, École Polytechnique*
+-   **Manon Michel** *LMBP, Université Clermont-Auvergne*
+-  **Francis Lörler** *Institute for Applied Mathematics, University of Bonn*
 
-[More details...](sem/2025/s2025_01.qmd)
+[More details...](sem/2025/s2025_02.qmd)
 :::
 
 ## Join the mailing list
