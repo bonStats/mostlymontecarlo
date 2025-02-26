@@ -13,14 +13,14 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 14th February
+## Next Seminar: 14th March
 
 [Salle 03](psc_rooms.qmd), 3PM Friday
 
--   **Manon Michel** *LMBP, Université Clermont-Auvergne*
--  **Francis Lörler** *Institute for Applied Mathematics, University of Bonn*
+-  **Andrea Pandolfi** *Università Bocconi*
+-  **Julien Stoehr** *Université Paris Dauphine, PSL*
 
-[More details...](sem/2025/s2025_02.qmd)
+[More details...](sem/2025/s2025_03.qmd)
 :::
 
 ## Join the mailing list
