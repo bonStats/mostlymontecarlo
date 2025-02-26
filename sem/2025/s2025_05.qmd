@@ -1,6 +1,6 @@
 ---
   title: "May"
-  date: "2025-12-16 16:00"
+  date: "2025-12-16 15:00"
   published-title: "Time and date"
   date-format: "hA dddd, MMM D, YYYY"
 ---
@@ -8,6 +8,12 @@
 Room: [Salle XX](../../psc_rooms.qmd), [PariSanté Campus](https://maps.app.goo.gl/cpFoxoZgbT6HCV6x9)
 
 ------------------------------------------------------------------------
+
+:::{.callout-tip}
+## Seminar time
+
+This seminar is scheduled for **3PM** (not the usual 4PM)
+:::
 
 ### Title
 
