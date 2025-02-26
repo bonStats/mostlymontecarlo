@@ -15,11 +15,11 @@
 This seminar is scheduled for **3PM** (not the usual 4PM)
 :::
 
-### Title
+### Conjugate gradient methods for high-dimensional GLMMs
 
 **Andrea Pandolfi** *Università Bocconi*
 
-Abstract
+Generalized linear mixed models (GLMMs) are a widely used tool in statistical analysis. The main bottleneck of many computational approaches lies in the inversion of the high dimensional precision matrices associated with the random effects. Such matrices are typically sparse; however, the sparsity pattern resembles a multi partite random graph, which does not lend itself well to default sparse linear algebra techniques. Notably, we show that, for typical GLMMs, the Cholesky factor is dense even when the original precision is sparse. We thus turn to approximate iterative techniques, in particular to the conjugate gradient (CG) method. We combine a detailed analysis of the spectrum of said precision matrices with results from random graph theory to show that CG-based methods applied to high-dimensional GLMMs typically achieve a fixed approximation error with a total cost that scales linearly with the number of parameters and observations. Numerical illustrations with both real and simulated data confirm the theoretical findings, while at the same time illustrating situations, such as nested structures, where CG-based methods struggle.
 
 ### Title
 
