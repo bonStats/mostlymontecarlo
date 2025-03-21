@@ -9,7 +9,7 @@
 
 ------------------------------------------------------------------------
 
-:::{.callout-tip}
+::: callout-tip
 ## Seminar time
 
 This seminar is scheduled for **3PM** (not the usual 4PM)
@@ -21,8 +21,8 @@ This seminar is scheduled for **3PM** (not the usual 4PM)
 
 Abstract
 
-### Title
+### Contrasting modes of cultural evolution: Kra-Dai languages and weaving technologies
 
 **Emma Kopp** *Université Paris Dauphine, PSL*
 
-Abstract
+Computational methods have been used to reconstruct the history of languages over several millennia, based on data from modern languages. Using stochastic models of evolution along a phylogenetic tree, these methods infer language relationships (the topology of the tree) along with the ages of ancestral languages, usually in the Bayesian setting. We investigate and compare the evolution of two aspects of culture, languages and weaving technologies, amongst the Kra-Dai (Tai-Kadai) peoples of southwest China and southeast Asia, using Bayesian Markov-Chain Monte Carlo methods to uncover phylogenies. The results show that languages and looms evolved in related but different ways, and bring some new insights into the diaspora of the Kra-Dai speakers across southeast Asia. 
