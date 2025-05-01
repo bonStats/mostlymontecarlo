@@ -13,14 +13,14 @@ Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
 ------------------------------------------------------------------------
 
 ::: callout-note
-## Next Seminar: 11th April
+## Next Seminar: 16th May
 
 [Salle 08](psc_rooms.qmd), 3PM Friday
 
--  **Susan Wei** *Monash University*
--  **Emma Kopp** *Université Paris Dauphine, PSL*
+-  **Rémi Bardenet** *CNRS and CRIStAL, Université de Lille*
+-  **Martin Chak** *Università Bocconi*
 
-[More details...](sem/2025/s2025_04.qmd)
+[More details...](sem/2025/s2025_05.qmd)
 :::
 
 ## Join the mailing list
