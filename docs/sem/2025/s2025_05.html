@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -281,7 +310,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#rejection-sampling-with-quantum-tricks-sampling-determinantal-point-processes-on-a-quantum-computer" id="toc-rejection-sampling-with-quantum-tricks-sampling-determinantal-point-processes-on-a-quantum-computer" class="nav-link active" data-scroll-target="#rejection-sampling-with-quantum-tricks-sampling-determinantal-point-processes-on-a-quantum-computer">Rejection sampling with quantum tricks: sampling determinantal point processes on a quantum computer</a></li>
-  <li><a href="#title" id="toc-title" class="nav-link" data-scroll-target="#title">Title</a></li>
+  <li><a href="#on-theoretical-guarantees-for-nonconvex-sampling" id="toc-on-theoretical-guarantees-for-nonconvex-sampling" class="nav-link" data-scroll-target="#on-theoretical-guarantees-for-nonconvex-sampling">On theoretical guarantees for nonconvex sampling</a></li>
   </ul>
 </nav>
     </div>
@@ -336,10 +365,10 @@ Seminar time
 <p>[1] https://arxiv.org/abs/2305.15851</p>
 <p>[2] https://arxiv.org/abs/2503.05906</p>
 </section>
-<section id="title" class="level3">
-<h3 class="anchored" data-anchor-id="title">Title</h3>
+<section id="on-theoretical-guarantees-for-nonconvex-sampling" class="level3">
+<h3 class="anchored" data-anchor-id="on-theoretical-guarantees-for-nonconvex-sampling">On theoretical guarantees for nonconvex sampling</h3>
 <p><strong>Martin Chak</strong> <em>Università Bocconi</em></p>
-<p>Abstract</p>
+<p>I will review recent results on guarantees for sampling algorithms targeting multimodal densities on <span class="math inline">\(\mathbb{R}^d\)</span>. For the class of target logdensities with bounded Hessians and strong concavity outside a ball of radius <span class="math inline">\(R\)</span>, I present the result that there are constants <span class="math inline">\(C&gt;c&gt;0\)</span> such that if <span class="math inline">\(R&lt;c\sqrt{d}\)</span>, then complete polynomial complexity is possible with an explicit algorithm, whilst if <span class="math inline">\(R&gt;C\sqrt{d}\)</span>, then exponential-in-<span class="math inline">\(d\)</span> complexity is necessary for any algorithm. Moreover, for the class of logdensities that have bounded Hessians and satisfy a distant dissipativity condition, I present unimodal counterexamples from the strongest parameter regimes that require exponential-in-<span class="math inline">\(d\)</span> complexity.</p>
 
 
 </section>

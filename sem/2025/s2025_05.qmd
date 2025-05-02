@@ -29,9 +29,9 @@ Be it feature selection in regression or minibatch sampling in stochastic gradie
 [2] https://arxiv.org/abs/2503.05906
 
 
-### Title
+### On theoretical guarantees for nonconvex sampling
 
 **Martin Chak** *Università Bocconi*
 
-Abstract
+I will review recent results on guarantees for sampling algorithms targeting multimodal densities on $\mathbb{R}^d$. For the class of target logdensities with bounded Hessians and strong concavity outside a ball of radius $R$, I present the result that there are constants $C>c>0$ such that if $R<c\sqrt{d}$, then complete polynomial complexity is possible with an explicit algorithm, whilst if $R>C\sqrt{d}$, then exponential-in-$d$ complexity is necessary for any algorithm. Moreover, for the class of logdensities that have bounded Hessians and satisfy a distant dissipativity condition, I present unimodal counterexamples from the strongest parameter regimes that require exponential-in-$d$ complexity.
 
