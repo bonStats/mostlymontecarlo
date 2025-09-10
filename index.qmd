@@ -6,27 +6,15 @@ A monthly seminar on the theory and practice of Monte Carlo in statistics and da
 
 ------------------------------------------------------------------------
 
-Held on the **2nd Friday of each month** (approximately) at the **PariSanté Campus**.
+::: callout-important
+## New website
 
-Organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io).
+The seminar series in now organised by Antoine Luciano and Tim Johnston.
 
-------------------------------------------------------------------------
+Please go to [https://antoineluciano.github.io/mostlymontecarlo](https://antoineluciano.github.io/mostlymontecarlo) to see new talks.
 
-::: callout-note
-## Next Seminar: 16th May
-
-[Salle 08](psc_rooms.qmd), 3PM Friday
-
--  **Rémi Bardenet** *CNRS and CRIStAL, Université de Lille*
--  **Martin Chak** *Università Bocconi*
-
-[More details...](sem/2025/s2025_05.qmd)
 :::
 
-## Join the mailing list
+Formally organised by Andrea Bertazzi and [Joshua Bon](https://bonstats.github.io). This page is an archive of talks from October 2023 to May 2025.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYfJCkKc8sO4SR8qemic3ctTwcoRcmCrapRHIIT-BFA3-pEA/viewform?embedded=true" width="640" height="676" frameborder="0" marginheight="0" marginwidth="0">
-
-Loading...
-
-</iframe>
+------------------------------------------------------------------------

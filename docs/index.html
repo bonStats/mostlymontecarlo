@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-151ba2079d091c1ebce6a05a89cee681.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -273,14 +273,8 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#join-the-mailing-list" id="toc-join-the-mailing-list" class="nav-link active" data-scroll-target="#join-the-mailing-list">Join the mailing list</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -306,35 +300,24 @@ ul.task-list li input[type="checkbox"] {
 
 <p>A monthly seminar on the theory and practice of Monte Carlo in statistics and data science.</p>
 <hr>
-<p>Held on the <strong>2nd Friday of each month</strong> (approximately) at the <strong>PariSanté Campus</strong>.</p>
-<p>Organised by Andrea Bertazzi and <a href="https://bonstats.github.io">Joshua Bon</a>.</p>
-<hr>
-<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Next Seminar: 16th May
+New website
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><a href="./psc_rooms.html">Salle 08</a>, 3PM Friday</p>
-<ul>
-<li><strong>Rémi Bardenet</strong> <em>CNRS and CRIStAL, Université de Lille</em></li>
-<li><strong>Martin Chak</strong> <em>Università Bocconi</em></li>
-</ul>
-<p><a href="./sem/2025/s2025_05.html">More details…</a></p>
+<p>The seminar series in now organised by Antoine Luciano and Tim Johnston.</p>
+<p>Please go to <a href="https://antoineluciano.github.io/mostlymontecarlo">https://antoineluciano.github.io/mostlymontecarlo</a> to see new talks.</p>
 </div>
 </div>
-<section id="join-the-mailing-list" class="level2">
-<h2 class="anchored" data-anchor-id="join-the-mailing-list">Join the mailing list</h2>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeYfJCkKc8sO4SR8qemic3ctTwcoRcmCrapRHIIT-BFA3-pEA/viewform?embedded=true" width="640" height="676" frameborder="0" marginheight="0" marginwidth="0">
-<p>Loading…</p>
-</iframe>
+<p>Formally organised by Andrea Bertazzi and <a href="https://bonstats.github.io">Joshua Bon</a>. This page is an archive of talks from October 2023 to May 2025.</p>
+<hr>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -419,8 +402,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -531,7 +512,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
